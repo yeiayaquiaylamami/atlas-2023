@@ -1,0 +1,61 @@
+{
+	"id": 3253,
+	"name": "Club Atlético Talleres",
+	"description": "Club Atlético Talleres is an Argentine sports club from the city of Córdoba. The institution is mostly known for its football team, which currently (2023) plays in the Argentine Primera División.",
+	"links": {
+		"website": [
+			"https://www.clubtalleres.com.ar/"
+		],
+		"subreddit": [
+			"MercadoCordoba"
+		]
+	},
+	"path": {
+		"169-185": [
+			[
+				393,
+				-810
+			],
+			[
+				404,
+				-810
+			],
+			[
+				404,
+				-798
+			],
+			[
+				393,
+				-798
+			]
+		],
+		"188-256": [
+			[
+				391,
+				-817
+			],
+			[
+				405,
+				-817
+			],
+			[
+				405,
+				-797
+			],
+			[
+				391,
+				-797
+			]
+		]
+	},
+	"center": {
+		"169-185": [
+			399,
+			-804
+		],
+		"188-256": [
+			398,
+			-807
+		]
+	}
+}
